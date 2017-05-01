@@ -1,0 +1,7 @@
+.ng-valid[required] {
+    border: 3px solid green;
+}
+
+.ng-invalid[required] {
+    border: 3px solid red;
+}
